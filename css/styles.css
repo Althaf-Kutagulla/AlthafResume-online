@@ -58,7 +58,26 @@ h3{
 .javascript-img{
     width: 150px;
 }
+.linkedin-logo{
+    width:30px;
+}
+.twitter-logo{
+    width:30px;
+}
 .bottom-container{
     background-color: #E4F9F4;
     padding-top: 50px;
+}
+.skill-row{
+    display: inline-block;
+    margin-right: 5px;
+    border: solid ;
+    border-color:rgb(58, 57, 57);
+    padding: 0 5px;
+    
+}
+.table{
+    margin:0 auto;
+    width: 1000px;
+    height: 300px;
 }
